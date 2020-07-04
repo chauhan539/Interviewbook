@@ -1,2 +1,2 @@
 # Interviewbook
-Tech related interview experiences
+A website for Tech related interview experiences
